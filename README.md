@@ -14,9 +14,19 @@
 
 _"Učit se znamená rozsvítit hlavu."_ ✨
 
-<!-- Kybernetická bezpečnost animace (GitHub compatible) -->
+<!-- Pokročilá animace kybernetické bezpečnosti -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/img/snk.gif" alt="Kybernetická bezpečnost animace" width="500">
+  <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" width="200" height="200">
+    <circle cx="50" cy="50" r="40" stroke="#00f5e9" stroke-width="4" fill="none">
+      <animate attributeName="r" from="40" to="45" dur="0.5s" begin="0s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="50" cy="50" r="45" stroke="#ff0066" stroke-width="4" fill="none">
+      <animate attributeName="r" from="45" to="40" dur="0.5s" begin="0s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="50" cy="50" r="30" stroke="#00ff00" stroke-width="4" fill="none">
+      <animate attributeName="r" from="30" to="35" dur="0.5s" begin="0s" repeatCount="indefinite" />
+    </circle>
+  </svg>
 </p>
 
 <p align="center">
