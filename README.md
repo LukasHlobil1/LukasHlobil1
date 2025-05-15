@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Vítej+na+mém+GitHubu!;Jsem+student+a+milovník+technologií.&center=true&width=500&height=45">
 </p>
 
@@ -16,9 +16,9 @@
 
 _"Učit se znamená rozsvítit hlavu."_ ✨
 
-<!-- Kybernetická bezpečnost animace -->
+<!-- Hackerská animace -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🔒%20Security%20Protocol-blue?style=for-the-badge&logo=security" alt="Security Badge" />
+  <img src="https://readme-jokes.vercel.app/api" alt="Hackerský terminál" width="500">
 </p>
 
 <p align="center">
