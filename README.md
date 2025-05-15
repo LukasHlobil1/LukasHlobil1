@@ -24,6 +24,18 @@
 
 ---
 
+---
+
+### 💼 Využívané technologie
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,bootstrap,mysql,github,php,idea" />
+
+</div>
+
+---
+
 ### 🚀 O mně
 
 - 🎓 Student se zaměřením pro technologie a umělou inteligenci  
@@ -46,6 +58,3 @@
 
 > _"Ve světě IT platí to samé co na silnici – řídit nestačí, musíš i myslet."_  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200">
-</p>
