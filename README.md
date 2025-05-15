@@ -1,11 +1,9 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Vítej+na+mém+GitHubu!;Jsem+student+a+milovník+technologií.&center=true&width=500&height=45"> </p>
 Ahoj, jsem Lukáš 👋
+
 💻 Technologie, které miluju:
-
 Python 🐍, C 🔱
-
 HTML, CSS, JS, Bootstrap
-
 MySQL, PostgreSQL
 
 Git, VS Code, JetBrains
