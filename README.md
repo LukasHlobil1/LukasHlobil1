@@ -26,9 +26,9 @@
 
 ### 🚀 O mně
 
-- 🎓 Student s odborností pro technologie a umělou inteligenci  
+- 🎓 Student se zaměřením pro technologie a umělou inteligenci  
 - 🧠 Neustále se učím nové věci a posouvám své znalosti  
-- 🛞 Když zrovna nekóduju, najdeš mě za volantem nebo ve světě Umělé Inteligence  
+- 🛞 Když zrovna nekóduju, najdeš mě za volantem nebo ve světě AI  
 
 ---
 
