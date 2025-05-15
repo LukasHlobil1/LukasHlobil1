@@ -30,3 +30,5 @@ Databáze: MySQL, PostgreSQL
 "Učit se neznamená plnit hlavu – ale rozsvítit ji." ✨
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Kód+je+můj+jazyk.;Každý+den+level+up.;AI+je+budoucnost,+kterou+potřebujeme.&center=true&width=450&height=30"> </p>
+
+<h3 align="center">"The code is watching."</h3> <p align="center"><img src="https://img.shields.io/badge/Mindset-Encrypted-green?style=flat-square&logo=codeforces&logoColor=00FF00" /></p> ```
