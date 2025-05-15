@@ -14,9 +14,9 @@
 
 _"Učit se znamená rozsvítit hlavu."_ ✨
 
-<!-- Programátorská animace -->
+<!-- Programátorská animace na téma bezpečnosti -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=00f5e9&center=true&vCenter=true&lines=print('Hello+World');;console.log('Kódování je+zábava!');" alt="Programátorská animace">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=5000&pause=1000&color=00f5e9&center=true&vCenter=true&lines=Encrypting+data...;;Decrypting+data...;;System+Secure+%40+%2AComplete+%23%24...;;Authenticating+user..." alt="Bezpečnostní animace">
 </p>
 
 <p align="center">
