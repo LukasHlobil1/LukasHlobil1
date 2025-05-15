@@ -1,6 +1,6 @@
 <!-- Úvodní profesionální animace -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4BF7FF&center=true&vCenter=true&width=800&lines=Vítej+na+mém+GitHubu!;Jsem+Lukáš+Hlobil+-+vývojář,+nadšenec+do+AI+a+technologií."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4BF7FF&center=true&vCenter=true&width=800&lines=Vítej+na+mém+GitHubu!;Jsem+Lukáš+Hlobil+-+student,+IT+a+Technologií."/>
 </p>
 
 ---
