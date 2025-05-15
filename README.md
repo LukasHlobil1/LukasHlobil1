@@ -1,8 +1,9 @@
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Vítej+na+mém+GitHub+profilu!;Jsem+student,+co+miluje+výzvy.;Učím+se+každým+dnem+něco+nového.&center=true&width=500&height=45"> </p>
+
+
 🧑‍💻 Ahoj, já jsem Lukáš 👋
 
 🚀 Nadšenec do nových technologií | 🧠 Věčný student | 💡 Milovník nových poznatků & zkušeností
-
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Vítej+na+mém+GitHub+profilu!;Jsem+student,+co+miluje+výzvy.;Učím+se+každým+dnem+něco+nového.&center=true&width=500&height=45"> </p>
 
 🛠️ Technologie, které se učím:
 
