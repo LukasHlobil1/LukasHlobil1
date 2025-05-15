@@ -1,7 +1,5 @@
 🧑‍💻 Ahoj, já jsem Lukáš 👋
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" /> </p>
-
 🚀 Nadšenec do nových technologií | 🧠 Věčný student | 💡 Milovník nových poznatků & zkušeností
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Vítej+na+mém+GitHub+profilu!;Jsem+student,+co+miluje+výzvy.;Učím+se+každým+dnem+něco+nového.&center=true&width=500&height=45"> </p>
@@ -30,6 +28,3 @@ Databáze: MySQL, PostgreSQL
 
 
 "Učit se neznamená plnit hlavu – ale rozsvítit ji." ✨
-
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=40&center=true&vCenter=true&width=700&lines=Deep+in+the+system.;Initiating+DeepNet+Protocol.;Lukas+Hlobil+connected+to+the+grid..." /></h1>
-
