@@ -1,4 +1,6 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Vítej+na+mém+GitHubu!;Jsem+student+a+milovník+technologií.&center=true&width=500&height=45"> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Vítej+na+mém+GitHubu!;Jsem+student+a+milovník+technologií.&center=true&width=500&height=45">
+</p>
 
 ### Ahoj, jsem Lukáš 👋
 
@@ -14,19 +16,9 @@
 
 _"Učit se znamená rozsvítit hlavu."_ ✨
 
-<!-- Pokročilá animace kybernetické bezpečnosti -->
+<!-- Kybernetická bezpečnost animace -->
 <p align="center">
-  <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" width="200" height="200">
-    <circle cx="50" cy="50" r="40" stroke="#00f5e9" stroke-width="4" fill="none">
-      <animate attributeName="r" from="40" to="45" dur="0.5s" begin="0s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="50" cy="50" r="45" stroke="#ff0066" stroke-width="4" fill="none">
-      <animate attributeName="r" from="45" to="40" dur="0.5s" begin="0s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="50" cy="50" r="30" stroke="#00ff00" stroke-width="4" fill="none">
-      <animate attributeName="r" from="30" to="35" dur="0.5s" begin="0s" repeatCount="indefinite" />
-    </circle>
-  </svg>
+  <img src="https://img.shields.io/badge/🔒%20Security%20Protocol-blue?style=for-the-badge&logo=security" alt="Security Badge" />
 </p>
 
 <p align="center">
