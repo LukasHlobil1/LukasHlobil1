@@ -29,7 +29,4 @@ Databáze: MySQL, PostgreSQL
 🎯 Motto:
 "Učit se neznamená plnit hlavu – ale rozsvítit ji." ✨
 
- Lukáš Hlobil
-🧠 Software enthusiast | 🔍 Deep thinker | 🛠️ Builder of ideas
-
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Kód+je+můj+jazyk.;Každý+den+level+up.;AI+je+budoucnost,+kterou+žiju.&center=true&width=450&height=30"> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Kód+je+můj+jazyk.;Každý+den+level+up.;AI+je+budoucnost,+kterou+potřebujeme.&center=true&width=450&height=30"> </p>
