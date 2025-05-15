@@ -6,7 +6,7 @@
 ---
 
 <h1 align="center">Ahoj, já jsem Lukáš 👨‍💻</h1>
-<h3 align="center">Student. Vývojář. Budovatel budoucnosti.</h3>
+<h3 align="center">Student IT. Profesionální řidič. Odborník přes AI.</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
@@ -14,7 +14,7 @@
 
 ---
 
-### 💼 Tech Stack
+### 💼 Využívané technologie
 
 <div align="center">
 
@@ -26,10 +26,9 @@
 
 ### 🚀 O mně
 
-- 🎓 Student se silnou vášní pro technologie a umělou inteligenci  
-- 🧠 Neustále se učím nové věci a posouvám své limity  
-- 💡 Mým cílem je budovat nástroje, které dělají svět chytřejším  
-- 🛞 Když zrovna nekóduju, najdeš mě za volantem nebo ve světě AI  
+- 🎓 Student s odborností pro technologie a umělou inteligenci  
+- 🧠 Neustále se učím nové věci a posouvám své znalosti  
+- 🛞 Když zrovna nekóduju, najdeš mě za volantem nebo ve světě Umělé Inteligence  
 
 ---
 
@@ -46,18 +45,9 @@
 
 ---
 
-### 📫 Kontakt
-
-<p align="center">
-  <a href="mailto:lukas.hlobil@orbiszlin.cz"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/LukasHlobil1" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
 ### ✨ Motto
 
-> _"Učit se znamená rozsvítit hlavu."_  
+> _"Chyby jsou jako výmoly – všimneš si jich, jen když jedeš rychle."_  
 
 <p align="center">
   <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200">
