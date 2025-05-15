@@ -16,7 +16,7 @@ Databáze: MySQL, PostgreSQL
 
 📊 Moje GitHub statistiky
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LukasHlobil1&show_icons=true&theme=tokyonight" alt="Janek GitHub Stats" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=janek123&theme=tokyonight" alt="GitHub Streak" width="48%"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LukasHlobil1&show_icons=true&theme=tokyonight" alt="Lukáš GitHub Stats" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=janek123&theme=tokyonight" alt="GitHub Streak" width="48%"> </p>
 
 🧰 Něco navíc:
 
