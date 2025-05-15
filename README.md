@@ -1,30 +1,26 @@
-#🧑‍💻 Ahoj, já jsem Janek  👋
-🚀 Nadšenec do kódu | 🧠 Věčný student | 💡 Milovník nových technologií
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Vítej+na+mém+GitHub+profilu!;Jsem+vývojář,+co+miluje+výzvy.;Učím+se+každý+den+něco+nového.&center=true&width=500&height=45"> </p>
-🛠️ Technologie, které ovládám:
-Programovací jazyky: Python 🐍, JavaScript ⚡
+🧑‍💻 Ahoj, já jsem Lukáš  👋
 
-Web development: HTML5, CSS3, React, Node.js
+🚀 Nadšenec do nových technologií | 🧠 Věčný student | 💡 Milovník nových poznatků & zkušeností
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Vítej+na+mém+GitHub+profilu!;Jsem+student,+co+miluje+výzvy.;Učím+se+každým+dnem+něco+nového.&center=true&width=500&height=45"> </p>
+🛠️ Technologie, které se učím:
 
-Nástroje: Git, GitHub, VS Code
+Programovací jazyky: Python 🐍, C 🔱
 
-Databáze: MongoDB, PostgreSQL
+Webový vývoj: HTML, CSS, BootStrap, JavaScript 
+
+Nástroje: Git, GitHub, VS Code, JetBrains
+
+Databáze: MySQL, PostgreSQL
 
 📊 Moje GitHub statistiky
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=janek123&show_icons=true&theme=tokyonight" alt="Janek GitHub Stats" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=janek123&theme=tokyonight" alt="GitHub Streak" width="48%"> </p>
-🧰 Něco navíc
-🌱 Právě se učím TypeScript a pokročilé věci z Reactu
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LukasHlobil1&show_icons=true&theme=tokyonight" alt="Janek GitHub Stats" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=janek123&theme=tokyonight" alt="GitHub Streak" width="48%"> </p>
+🧰 Něco navíc:
 
-🧩 Miluju ladění bugů (skoro... 😅)
+🚗 Jsem vášnivý řidič, který prohlubuje své zkušenosti jak v řízení tak i v programování
 
-🌍 Chci jednou pracovat na remote projektech po celém světě
+🧩 Rád objevuju a poznávám co vše dokáže AI v moderním světě
 
-📫 Spoj se se mnou
+📫 Spoj se se mnou: lukas.hlobil@orbiszlin.cz
 
-
-
-🎯 Motto
+🎯 Motto:
 "Učit se neznamená plnit hlavu – ale rozsvítit ji." ✨
-
-💬 Chceš mi napsat, pokecat o projektech nebo se jen pozdravit?
-Neváhej a napiš – dveře jsou otevřené.
