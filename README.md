@@ -14,15 +14,13 @@
 
 ---
 
-### 💼 Využívané technologie
+### 💼 Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,c,html,css,js,bootstrap,mysql,github,php,idea" />
 
 </div>
-
----
 
 ---
 
