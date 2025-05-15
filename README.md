@@ -31,4 +31,6 @@ Databáze: MySQL, PostgreSQL
 
 "Učit se neznamená plnit hlavu – ale rozsvítit ji." ✨
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=40&center=true&vCenter=true&width=700&lines=Deep+in+the+system.;Initiating+DeepNet+Protocol.;Lukas+Hlobil+connected+to+the+grid..." /></h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/12XdyWusLBmWHE/giphy.gif" width="200" />
+</p>
