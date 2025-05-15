@@ -14,9 +14,9 @@
 
 _"Učit se znamená rozsvítit hlavu."_ ✨
 
-<!-- Kybernetická bezpečnost animace (z GitHub) -->
+<!-- Kybernetická bezpečnost animace (GIF) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/img/snk.gif" alt="Cyber Security Animation" width="500">
+  <img src="https://media.giphy.com/media/xT0GqdQKjdrpCCxFE4/giphy.gif" alt="Kybernetická bezpečnost animace" width="500">
 </p>
 
 <p align="center">
