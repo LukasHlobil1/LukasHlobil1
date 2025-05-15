@@ -4,7 +4,7 @@
 
 ### Ahoj, jsem Lukáš 👋
 
-💻 Technologie, které miluju:  
+💻 Technologie, které využívám:  
 - Python 🐍, C 🔱  
 - HTML, CSS, JS, Bootstrap  
 - MySQL, PostgreSQL  
