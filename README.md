@@ -44,7 +44,7 @@
 
 ---
 
-> _"Chyby jsou jako výmoly – všimneš si jich, jen když jedeš rychle."_  
+> _"Ve světě IT platí to samé co na silnici – řídit nestačí, musíš i myslet."_  
 
 <p align="center">
   <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="200">
