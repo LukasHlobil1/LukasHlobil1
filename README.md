@@ -17,16 +17,25 @@
 ### 💼 Tech Stack
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,mysql,github,php,webstorm,phpstorm,clion" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,mysql,github,php,webstorm,phpstorm,clion" />
+---
 
+### 🧠 Využívané AI technologie
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-AI-FFD700?style=for-the-badge&logo=deepnote&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 ---
 
 ### 🚀 O mně
 
-- 🎓 Student se zaměřením pro technologie a umělou inteligenci  
+- 🎓 Student se zaměřením na technologie a umělou inteligenci  
 - 🧠 Neustále se učím nové věci a posouvám své znalosti  
 - 🛞 Když zrovna nekóduju, najdeš mě za volantem nebo ve světě AI  
 
@@ -44,5 +53,4 @@
 
 ---
 
-> _"Ve světě IT platí to samé co na silnici – řídit nestačí, musíš i myslet."_  
-
+> _"Ve světě IT platí to samé co na silnici – řídit nestačí, musíš i myslet."_
