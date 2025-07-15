@@ -22,17 +22,6 @@
 
 ---
 
-### 🧠 Využívané AI technologie
-
-<div align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-AI-FFD700?style=for-the-badge&logo=deepnote&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
----
-
 ### 🚀 O mně
 
 - 🎓 Student se zaměřením na technologie a umělou inteligenci  
