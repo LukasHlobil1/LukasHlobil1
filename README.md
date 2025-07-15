@@ -44,10 +44,6 @@
 ### 📊 Statistiky
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LukasHlobil1&theme=tokyonight&hide_border=true" width="48%">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasHlobil1&layout=compact&theme=tokyonight&hide_border=true" width="50%">
 </p>
 
