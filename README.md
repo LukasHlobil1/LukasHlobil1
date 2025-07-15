@@ -6,7 +6,7 @@
 ---
 
 <h1 align="center">Ahoj, já jsem Lukáš 👨‍💻</h1>
-<h3 align="center">Student IT. Profesionální řidič. Odborník přes AI.</h3>
+<h3 align="center">Student IT a řidič</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
