@@ -37,7 +37,7 @@
 
 - 🎓 Student se zaměřením na technologie a umělou inteligenci  
 - 🧠 Neustále se učím nové věci a posouvám své znalosti  
-- 🛞 Když zrovna nekóduju, najdeš mě za volantem nebo ve světě AI  
+- 🛞 Když zrovna nekóduju, najdeš mě za volantem nebo za řidítkama :)
 
 ---
 
