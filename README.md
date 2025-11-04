@@ -1,4 +1,4 @@
-<!-- ⚡ CYBERPUNK GITHUB PROFILE by Lukáš Hlobil ⚡ -->
+q<!-- ⚡ CYBERPUNK GITHUB PROFILE by Lukáš Hlobil ⚡ -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&pause=1000&color=FF00FF&center=true&vCenter=true&width=850&lines=⚡+Lukáš+Hlobil+⚡;💾+Student+IT+%7C+AI+Enthusiast;🚗+Driver+%7C+Future+Coder" alt="Cyberpunk Typing Animation" />
 </p>
@@ -15,7 +15,7 @@
 <h2 align="center">🌐 O mně</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/euuaQmk7fY6dE/giphy.gif" width="280" />
+  <img src="[https://media.giphy.com/media/euuaQmk7fY6dE/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q3dzF6cmd0MTY2bnBxdmc5d3ZvbjE2eWc2OTA5anBkMmt4NWZmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TtUaDzXQg6XV3BKQiJ/giphy.gif)" width="280" />
 </p>
 
 <p align="center">
