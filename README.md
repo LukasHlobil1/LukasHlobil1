@@ -1,50 +1,48 @@
-q<!-- ⚡ CYBERPUNK GITHUB PROFILE by Lukáš Hlobil ⚡ -->
+<!-- 🌌 CYBERPUNK NEON DASHBOARD — by Lukáš Hlobil -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&pause=1000&color=FF00FF&center=true&vCenter=true&width=850&lines=⚡+Lukáš+Hlobil+⚡;💾+Student+IT+%7C+AI+Enthusiast;🚗+Driver+%7C+Future+Coder" alt="Cyberpunk Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=⚡+Lukáš+Hlobil+⚡;💾+Cyberpunk+Developer+|+AI+Explorer;🚗+Driver+|+Future+Engineer" alt="Cyberpunk Typing Animation" />
 </p>
 
 ---
 
-<!-- 🟣 CYBERPUNK HEADER BANNER -->
+<!-- 💠 HEADER — Futuristic Neon Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F0029,50:8000FF,100:FF0099&text=🧠+Lukáš+Hlobil+👾&fontColor=00FFFF&fontSize=45&fontAlignY=40&font=Orbitron&desc=Student+IT+•+AI+Developer+•+Driver&descAlignY=70&descAlign=50&animation=fadeIn&stroke=FF00FF&strokeWidth=2" alt="Cyberpunk Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0A0024,40:8000FF,80:FF00FF,100:00FFFF&text=👾+Lukáš+Hlobil+👾&fontColor=00FFFF&fontSize=46&fontAlignY=40&font=Orbitron&desc=AI+Developer+•+Cyber+Engineer+•+Driver&descAlignY=70&descAlign=50&animation=fadeIn&stroke=FF00FF&strokeWidth=2" alt="Cyberpunk Banner"/>
 </p>
 
 ---
 
-<h2 align="center">🌐 O mně</h2>
+<h2 align="center">🧬 SYSTEM STATUS : ONLINE</h2>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnd5b2g5Z3Jwc29wd3dudG5zZGxla24xcWdhdThmdGVuNGZ3YW9sdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0qQ3wbNSSrUO4Gw3Ln/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/SvQzkTQb3ZwK0/giphy.gif" width="250">
 </p>
 
 <p align="center">
-  👾 <b>Student IT</b> zaměřený na <b>AI, sítě a moderní technologie</b>  
+  👨‍💻 <b>Cyber-engineer</b> focused on <b>AI, automation</b> and <b>network intelligence</b>  
   <br>
-  💡 Neustále se učím nové frameworky a tvořím <b>projekty z budoucnosti</b>  
+  🔥 Always upgrading my <b>systems and neural network</b>  
   <br>
-  🚗 <b>Řidič</b>, který spojuje <b>technologii a preciznost</b>  
+  🚦 Balancing <b>speed, logic and design precision</b>  
   <br>
-  ⚙️ Miluju <b>efektivní kód, vizuální design a logiku</b>  
-  <br>
-  🌌 Mým cílem je <b>vytvářet aplikace, které vypadají jako z roku 2080</b>
+  🧠 Building <b>next-gen apps</b> that look like <b>they came from the year 2087</b>
 </p>
 
 ---
 
-<h2 align="center">💼 Tech Stack</h2>
+<h2 align="center">⚡ TECH MODULES</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,php,html,css,js,mysql,github,vscode,webstorm,phpstorm,clion,bootstrap" />
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="180">
 </p>
 
 ---
 
-<h2 align="center">📈 Statistiky</h2>
+<h2 align="center">📊 SYSTEM ANALYTICS</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LukasHlobil1&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF00FF&icon_color=00FFFF&text_color=EAEAEA" width="48%"/>
@@ -56,7 +54,7 @@ q<!-- ⚡ CYBERPUNK GITHUB PROFILE by Lukáš Hlobil ⚡ -->
 
 ---
 
-<h2 align="center">⚙️ Projekty & Aktivita</h2>
+<h2 align="center">🛰️ PROJECTS & OPERATIONS</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LukasHlobil1&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6&title_color=FF00FF" />
@@ -64,28 +62,28 @@ q<!-- ⚡ CYBERPUNK GITHUB PROFILE by Lukáš Hlobil ⚡ -->
 
 ---
 
-<h2 align="center">🚀 Kontaktuj mě</h2>
+<h2 align="center">💾 CONNECTION LINKS</h2>
 
 <p align="center">
   <a href="https://github.com/LukasHlobil1">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=2B0033&color=8000FF" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=2B0033&color=8000FF" />
   </a>
   <a href="mailto:lukas.hlobil@orbiszlin.cz">
-    <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0029" />
+    <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0024" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">🧠 Motto</h2>
+<h2 align="center">🧠 MOTTO</h2>
 
 <p align="center">
-  <em style="color:#00FFFF;">„Ve světě IT platí to samé co na silnici – řídit nestačí, musíš i myslet.“</em>
+  <em style="color:#00FFFF;">“In both coding and driving, precision is everything — one wrong move, and you crash.”</em>
 </p>
 
 ---
 
-<!-- CYBERPUNK FOOTER -->
+<!-- ⚙️ FOOTER — Neon Energy Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:FF0099,50:8000FF,100:00FFFF&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:FF00FF,50:8000FF,100:00FFFF&section=footer" />
 </p>
