@@ -15,7 +15,7 @@ q<!-- ⚡ CYBERPUNK GITHUB PROFILE by Lukáš Hlobil ⚡ -->
 <h2 align="center">🌐 O mně</h2>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/euuaQmk7fY6dE/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q3dzF6cmd0MTY2bnBxdmc5d3ZvbjE2eWc2OTA5anBkMmt4NWZmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TtUaDzXQg6XV3BKQiJ/giphy.gif)" width="280" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnd5b2g5Z3Jwc29wd3dudG5zZGxla24xcWdhdThmdGVuNGZ3YW9sdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0qQ3wbNSSrUO4Gw3Ln/giphy.gif" width="280" />
 </p>
 
 <p align="center">
