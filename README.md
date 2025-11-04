@@ -24,19 +24,6 @@
 
 ---
 
-### 📊 Statistiky
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LukasHlobil1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FF4DF0&icon_color=FF66CC&text_color=FCE4EC" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LukasHlobil1&theme=tokyonight&hide_border=true&background=00000000&ring=FF4DF0&fire=FF99CC&currStreakLabel=FF66CC" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasHlobil1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FF4DF0&text_color=FCE4EC" width="50%"/>
-</p>
-
-
----
-
 ### ⚙️ Kontakt
 <p align="center">
   <a href="mailto:lukas.hlobil@orbiszlin.cz">
@@ -51,12 +38,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" />
-</p>
-
-<p align="center">
-  <b style="color:#FF4DF0;">01001100 01110101 01101011 01100001 1110011</b>  
-  <br>
-  <em style="color:#FF66CC;">// Systém běží v neonovém režimu //</em>
 </p>
 
 <p align="center">
