@@ -1,89 +1,103 @@
-<!-- 🌌 CYBERPUNK NEON DASHBOARD — by Lukáš Hlobil -->
+<!-- 🧠 CYBERPUNK NEON INTERFACE — v2.0 by Lukáš Hlobil -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=⚡+Lukáš+Hlobil+⚡;💾+Cyberpunk+Developer+|+AI+Explorer;🚗+Driver+|+Future+Engineer" alt="Cyberpunk Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2500&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=⚡+LUKÁŠ+HLOBIL+//+NEURAL+SYSTEM+ONLINE;💾+AI+Engineer+|+Cyber+Driver+|+Network+Architect;🚀+Initializing+Holographic+Dashboard..." alt="Cyberpunk Typing Animation"/>
 </p>
 
 ---
 
-<!-- 💠 HEADER — Futuristic Neon Wave -->
+<!-- 🌌 HEADER — Futuristic Neon Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0A0024,40:8000FF,80:FF00FF,100:00FFFF&text=👾+Lukáš+Hlobil+👾&fontColor=00FFFF&fontSize=46&fontAlignY=40&font=Orbitron&desc=AI+Developer+•+Cyber+Engineer+•+Driver&descAlignY=70&descAlign=50&animation=fadeIn&stroke=FF00FF&strokeWidth=2" alt="Cyberpunk Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000014,30:7F00FF,60:FF00C8,100:00E7FF&text=🧬+LUKÁŠ+HLOBIL+🧬&fontColor=00E7FF&fontSize=45&fontAlignY=40&font=Orbitron&desc=Cyber+Engineer+•+AI+Thinker+•+Driver+of+the+Future&descAlignY=70&descAlign=50&stroke=00FFFF&strokeWidth=2&animation=twinkling" alt="Cyberpunk Banner"/>
 </p>
 
 ---
 
-<h2 align="center">🧬 SYSTEM STATUS : ONLINE</h2>
+<h2 align="center">🧠 SYSTEM CORE // IDENTITY</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SvQzkTQb3ZwK0/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="260" />
 </p>
 
 <p align="center">
-  👨‍💻 <b>Cyber-engineer</b> focused on <b>AI, automation</b> and <b>network intelligence</b>  
+  <b>⚙️ Neural role:</b> Developer, Analyst, Engineer  
   <br>
-  🔥 Always upgrading my <b>systems and neural network</b>  
+  <b>🧩 Focus:</b> Artificial Intelligence • Network Monitoring • Cyber Automation  
   <br>
-  🚦 Balancing <b>speed, logic and design precision</b>  
+  <b>🚀 Mode:</b> Precision • Velocity • Futuristic UI/UX  
   <br>
-  🧠 Building <b>next-gen apps</b> that look like <b>they came from the year 2087</b>
+  <b>🏍️ Offline activity:</b> Behind the wheel or mastering two wheels  
 </p>
 
 ---
 
-<h2 align="center">⚡ TECH MODULES</h2>
+<h2 align="center">💻 AI PROTOCOL // TECH MODULES</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,php,html,css,js,mysql,github,vscode,webstorm,phpstorm,clion,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,flask,php,html,css,js,mysql,github,vscode,webstorm,phpstorm,clion,bootstrap&theme=light" />
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="180">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" />
 </p>
 
 ---
 
-<h2 align="center">📊 SYSTEM ANALYTICS</h2>
+<h2 align="center">📡 NETWORK INTELLIGENCE // DATA STREAM</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LukasHlobil1&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF00FF&icon_color=00FFFF&text_color=EAEAEA" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LukasHlobil1&theme=radical&hide_border=true&background=00000000&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LukasHlobil1&show_icons=true&theme=highcontrast&hide_border=true&bg_color=00000000&title_color=FF00FF&icon_color=00FFFF&text_color=EAEAEA" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LukasHlobil1&theme=highcontrast&hide_border=true&background=00000000&ring=00E7FF&fire=FF00FF&currStreakLabel=00FFFF" width="48%"/>
 
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasHlobil1&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF00FF&text_color=EAEAEA" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasHlobil1&layout=compact&theme=highcontrast&hide_border=true&bg_color=00000000&title_color=FF00FF&text_color=EAEAEA" width="50%"/>
 </div>
 
 ---
 
-<h2 align="center">🛰️ PROJECTS & OPERATIONS</h2>
+<h2 align="center">⚔️ DRIVER MODULE // PROJECT OPERATIONS</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LukasHlobil1&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6&title_color=FF00FF" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LukasHlobil1&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280" />
 </p>
 
 ---
 
-<h2 align="center">💾 CONNECTION LINKS</h2>
+<h2 align="center">🧩 SYSTEM CONNECTIONS</h2>
 
 <p align="center">
   <a href="https://github.com/LukasHlobil1">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=2B0033&color=8000FF" />
+    <img src="https://img.shields.io/badge/GitHub-1A1A2E?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0D002B&color=8000FF" />
   </a>
   <a href="mailto:lukas.hlobil@orbiszlin.cz">
-    <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0024" />
+    <img src="https://img.shields.io/badge/Email-7F00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000014" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">🧠 MOTTO</h2>
+<h2 align="center">🧬 NEURAL QUOTE</h2>
 
 <p align="center">
-  <em style="color:#00FFFF;">“In both coding and driving, precision is everything — one wrong move, and you crash.”</em>
+  <em style="color:#00FFFF;">"Driving and coding share one rule — precision defines survival."</em>
 </p>
 
 ---
 
-<!-- ⚙️ FOOTER — Neon Energy Wave -->
+<!-- ⚡ FOOTER — Holographic Energy Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:FF00FF,50:8000FF,100:00FFFF&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00FFFF,50:FF00FF,100:8000FF&section=footer&animation=fadeIn" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZjM3k5cnM0dnIzbXd4Z3UwOXVua2RxYWR4bnJrYTVtbDBjaTRxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="220" />
+</p>
+
+<p align="center">
+  <b style="color:#FF00FF;">// SYSTEM STATUS: ACTIVE — CYBERLINK STABLE //</b>
 </p>
