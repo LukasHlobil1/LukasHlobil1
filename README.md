@@ -30,6 +30,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LukasHlobil1&theme=tokyonight&hide_border=true&background=00000000&ring=FF4DF0&fire=FF99CC&currStreakLabel=FF66CC" width="48%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasHlobil1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FF4DF0&text_color=FCE4EC" width="50%"/>
+</p>
+
+
 ---
 
 ### ⚙️ Kontakt
