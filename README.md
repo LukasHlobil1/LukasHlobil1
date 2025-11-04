@@ -1,10 +1,3 @@
-<!-- Moderní animovaný úvod -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=850&lines=👋+Ahoj,+já+jsem+Lukáš+Hlobil!;💻+Student+IT+%26+Řidič;🚗+Milovník+technologií,+AI+a+Rychlosti!" alt="Intro Animation" />
-</p>
-
----
-
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00FF88,100:001F0A&text=👨‍💻%20Lukáš%20Hlobil%20🧠&fontColor=00FFAA&fontSize=40&fontAlignY=35&desc=AI%20%7C%20Code%20%7C%20Drive&descAlignY=60&descAlign=50&animation=twinkling&font=Fira%20Code&reversal=true" alt="Matrix Style Banner"/>
