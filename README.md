@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ffffff,100:ddeaff&text=Lukáš%20Hlobil&fontColor=0a192f&fontSize=45&fontAlignY=38&desc=Student%20IT%20•%20Driver%20•%20Tech%20Lover&descAlignY=60&descAlign=50&animation=fadeIn&font=Montserrat" alt="Lukáš Hlobil Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:001F3F,50:0066FF,100:A020F0&text=👾+Lukáš+Hlobil+|+AI+%26+Tech+Driver+🚗&fontSize=42&fontAlignY=40&fontColor=00E7FF&font=Fira%20Code&desc=Futuristic+Developer+|+Student+IT+|+Innovation+Seeker&descAlignY=70&descAlign=50&animation=scaleIn&stroke=FFFFFF&strokeWidth=1.5&reversal=false" alt="Futuristic Banner"/>
 </p>
 
 ---
