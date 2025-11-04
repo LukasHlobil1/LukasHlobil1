@@ -7,7 +7,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00E7FF,100:0044FF&text=Lukáš%20Hlobil%20👨‍💻&fontColor=ffffff&fontSize=40&fontAlignY=35&animation=twinkling" alt="Lukáš Hlobil Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00FF88,100:001F0A&text=👨‍💻%20Lukáš%20Hlobil%20🧠&fontColor=00FFAA&fontSize=40&fontAlignY=35&desc=AI%20%7C%20Code%20%7C%20Drive&descAlignY=60&descAlign=50&animation=twinkling&font=Fira%20Code&reversal=true" alt="Matrix Style Banner"/>
 </p>
 
 ---
