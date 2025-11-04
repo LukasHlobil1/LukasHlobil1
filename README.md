@@ -1,6 +1,6 @@
 <!-- Moderní animovaný úvod -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=850&lines=👋+Ahoj,+já+jsem+Lukáš+Hlobil!;💻+Student+IT+%26+A+Řidič;🚗+Milovník+technologií,+AI+a+Rychlosti!" alt="Intro Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=850&lines=👋+Ahoj,+já+jsem+Lukáš+Hlobil!;💻+Student+IT+%26+Řidič;🚗+Milovník+technologií,+AI+a+Rychlosti!" alt="Intro Animation" />
 </p>
 
 ---
