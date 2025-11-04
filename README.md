@@ -1,48 +1,48 @@
-<!-- ⚡ CYBERPUNK README by Lukáš Hlobil (CZ Edition) -->
+<!-- 💎 GITHUB ENGINEER STYLE PROFILE by Lukáš Hlobil -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2600&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=💾+Lukáš+Hlobil;👨‍💻+Student+IT+a+nadšenec+do+AI;🚗+Řidič+se+zálibou+v+moderních+technologiích" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=00E7FF&center=true&vCenter=true&width=850&lines=Lukáš+Hlobil+👨‍💻;Full-Stack+Developer+•+AI+Nadšenec;Futuristický+vývojář+se+zájmem+o+dokonalý+kód" alt="Typing Animation"/>
 </p>
 
 ---
 
-<!-- 🌌 HLAVIČKA -->
+<!-- 🎇 BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000010,50:8000FF,100:00E7FF&text=Lukáš%20Hlobil&fontColor=00FFFF&fontSize=45&fontAlignY=40&font=Orbitron&desc=Student%20IT%20•%20AI%20Nadšenec%20•%20Řidič&descAlignY=70&descAlign=50&animation=fadeIn" alt="Cyberpunk Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A0A2A,50:7F00FF,100:00FFFF&text=Lukáš%20Hlobil&fontColor=00FFFF&fontSize=46&fontAlignY=40&font=JetBrains%20Mono&desc=GitHub%20Developer%20•%20AI%20Vision%20Creator%20•%20Network%20Engineer&descAlignY=70&descAlign=50&stroke=00E7FF&strokeWidth=2&animation=fadeIn" alt="Header Banner"/>
 </p>
 
 ---
 
-<h2 align="center">💡 O mně</h2>
+<h2 align="center">💼 O mně</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="260" />
 </p>
 
 <p align="center">
-  👨‍💻 <b>Student IT</b>, který se zajímá o <b>umělou inteligenci, sítě</b> a <b>moderní technologie</b>  
-  <br>
-  ⚙️ Rád tvořím aplikace, které vypadají i fungují <b>realisticky a efektivně</b>  
-  <br>
-  🚗 Když zrovna nekóduju, <b>jsem za volantem nebo na motorce</b>  
-  <br>
-  🌌 Mám rád <b>futuristický design</b> a čisté, moderní rozhraní
+  👋 Ahoj, jsem <b>Lukáš Hlobil</b> — vývojář, který spojuje <b>moderní technologie, umělou inteligenci</b>  
+  a <b>reálný svět řízení</b> v jednom.  
+  <br><br>
+  🚀 Baví mě vytvářet aplikace, které vypadají jako z budoucnosti,  
+  ale běží <b>efektivně, stabilně a s důrazem na detail</b>.  
+  <br><br>
+  💡 Miluji <b>čistý kód, moderní rozhraní</b> a projekty, které mají duši i logiku.
 </p>
 
 ---
 
-<h2 align="center">🛠️ Používané technologie</h2>
+<h2 align="center">🧠 Technologie & Nástroje</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,php,html,css,js,mysql,github,vscode,webstorm,phpstorm,clion,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,flask,php,html,css,js,mysql,github,vscode,phpstorm,clion,bootstrap" />
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160" />
+  <img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" width="180" />
 </p>
 
 ---
 
-<h2 align="center">📊 Statistiky</h2>
+<h2 align="center">📊 Statistiky & Aktivita</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LukasHlobil1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00FFFF&icon_color=FF00FF&text_color=EAEAEA" width="48%"/>
@@ -54,19 +54,23 @@
 
 ---
 
-<h2 align="center">🚀 Projekty</h2>
+<h2 align="center">📂 Vybrané projekty</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LukasHlobil1&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=6" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="200"/>
+</p>
+
 ---
 
-<h2 align="center">📬 Kontakt</h2>
+<h2 align="center">💬 Kontakt & Spojení</h2>
 
 <p align="center">
   <a href="https://github.com/LukasHlobil1">
-    <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0A0A2A&color=8000FF" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=1A1A2E&color=8000FF" />
   </a>
   <a href="mailto:lukas.hlobil@orbiszlin.cz">
     <img src="https://img.shields.io/badge/E-mail-00E7FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000010" />
@@ -75,23 +79,23 @@
 
 ---
 
-<h2 align="center">💬 Motto</h2>
+<h2 align="center">🧬 Motto</h2>
 
 <p align="center">
-  <em style="color:#00FFFF;">„Ve světě IT platí to samé co na silnici – řídit nestačí, musíš i myslet.“</em>
+  <em style="color:#00E7FF;">„Dokonalý kód je jako jízda v noci – musíš vidět dopředu, ale nikdy neztratit kontrolu.“</em>
 </p>
 
 ---
 
-<!-- 💾 BINÁRNÍ DATA EFEKT -->
+<!-- 💾 BINÁRNÍ DEŠŤ / MATRIX EFFECT -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnBHZGzFUbZgCZW/giphy.gif" width="320" />
+  <img src="https://media.giphy.com/media/26Ff4rUJQnF4gLqY0/giphy.gif" width="400" />
 </p>
 
 <p align="center">
-  <b style="color:#00E7FF;">1011010&nbsp;0110100&nbsp;0110111&nbsp;0110100&nbsp;0110110&nbsp;0110001</b>
+  <b style="color:#00E7FF;">01001100 01110101 01101011 01100001 1110011</b>  
   <br>
-  <em style="color:#FF00FF;">// Data proudí… systém stabilní //</em>
+  <em style="color:#FF00FF;">// Data proudí... systém běží hladce //</em>
 </p>
 
 ---
