@@ -1,42 +1,50 @@
-<!-- 🌸 CYBERPUNK PROFILE - LUKÁŠ HLOBIL -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1000&color=FF4DF0&center=true&vCenter=true&width=700&lines=Lukáš+Hlobil+👨‍💻;Student+•+Řidič+•+AI+Nadšenec;Kód+je+víc+než+jen+slova" alt="Typing SVG" />
-</p>
+<!-- 💡 Clean & Aesthetic GitHub Profile for IT Student -->
 
+<h1 align="center">👋 Ahoj, jsem <span style="color:#0078ff;">Lukáš Odstrčil</span></h1>
+<h3 align="center">💻 Student IT | 🚗 Řidič | ⚡ Nadšenec do moderních technologií</h3>
 
 ---
 
 ### 🧠 O mně
-> 💫 Jsem **student**, který spojuje **technologie, umělou inteligenci a kreativitu**.  
-> 🚗 Když zrovna neprogramuju, najdeš mě **za volantem**, kde přemýšlím, jak by mohla **AI řídit mě**.  
-> ⚙️ Mám rád **minimalismus, neonové barvy a projekty s duší**.  
-> 🌐 Mým snem je tvořit **aplikace, které vypadají jako z budoucnosti**.
+- 🎓 Studuji **informační technologie**  
+- 💡 Zajímám se o **moderní webové frameworky a multiplatformní vývoj**  
+- 🌱 Momentálně se zaměřuji na **Laravel**, **Ionic**, **Angular** a **moderní JavaScript**  
+- 🚗 Jsem **řidič**, který má rád přesnost, systém a klid i v dynamických situacích  
+- ✨ Mým cílem je tvořit **čisté, intuitivní a funkční aplikace**
 
 ---
 
-### 💡 Technologie
+### 🧰 Technologie, které používám
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,php,mysql,github,vscode" />
-</p>
-
----
-
-### ⚙️ Kontakt
-<p align="center">
-  <a href="mailto:lukas.hlobil@orbiszlin.cz">
-    <img src="https://img.shields.io/badge/E-mail-FF4DF0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A001A" />
-  </a>
-  <a href="https://github.com/LukasHlobil1">
-    <img src="https://img.shields.io/badge/GitHub-1A001A?style=for-the-badge&logo=github&logoColor=FF66CC&labelColor=000000&color=FF007F" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,laravel,php,ionic,python,git,linux,vscode" />
 </p>
 
 ---
 
+### 💬 Motto
+> „Jednoduchost je konečná sofistikovanost.“ – Leonardo da Vinci  
+
+---
+
+### 🌎 Design & styl
+- Preferuji **clean a dark aesthetic**  
+- Inspiruji se **moderními UX/UI trendy**  
+- Věřím, že **kód i design** mají být přehledné, efektivní a s jasným účelem  
+
+---
+
+### 📫 Kontaktuj mě
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" />
+  <a href="mailto:odstrcil.lukas@email.com"><img src="https://img.shields.io/badge/Email-%230078ff.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-%230078ff.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF007F,50:FF4DF0,100:FF99CC&section=footer" />
-</p>
+---
+
+### ⚡ Fun fact
+> I code like I drive — focused, smooth, and always looking ahead. 🚗💨
+
+---
+
+⭐ *Pokud se ti líbí můj styl, klidně mrkni na repozitáře a nech ⭐ na těch, co tě zaujmou.*
