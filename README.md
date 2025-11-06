@@ -1,6 +1,6 @@
 <!-- 💡 Clean & Aesthetic GitHub Profile for IT Student -->
 
-<h1 align="center">👋 Ahoj, jsem <span style="color:#0078ff;">Lukáš Odstrčil</span></h1>
+<h1 align="center">👋 Ahoj, jsem <span style="color:#0078ff;">Lukáš Hlobil</span></h1>
 <h3 align="center">💻 Student IT | 🚗 Řidič | ⚡ Nadšenec do moderních technologií</h3>
 
 ---
