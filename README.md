@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1000&color=FF4DF0&center=true&vCenter=true&width=700&lines=Lukáš+Hlobil+👨‍💻;Student+•+Řidič+•+AI+Nadšenec;Kód+je+víc+než+jen+slova" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1A001A,50:FF007F,100:FF66CC&text=Lukáš%20Hlobil&fontAlignY=40&fontColor=FFBDF2&fontSize=44&animation=fadeIn&desc=Student%20%7C%20Řidič%20%7C%20AI%20Nadšenec&descAlignY=70&descAlign=50" />
-</p>
 
 ---
 
