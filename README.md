@@ -16,7 +16,7 @@
 
 ### 🧰 Technologie, které používám
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,laravel,php,ionic,python,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,js,git,github,mysql,py,angular,laravel," />
 </p>
 
 ---
