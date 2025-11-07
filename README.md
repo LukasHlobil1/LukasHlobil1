@@ -35,8 +35,7 @@
 
 ### 📫 Kontaktuj mě
 <p align="center">
-  <a href="mailto:odstrcil.lukas@email.com"><img src="https://img.shields.io/badge/Email-%230078ff.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-%230078ff.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:lukas.hlobil@orbiszlin.cz"><img src="https://img.shields.io/badge/Email-%230078ff.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
